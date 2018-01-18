@@ -1,0 +1,8 @@
+# Changelog 
+
+## 17/01/2018 
+### Added
+- Hello world shows how to do getters and setters to and from JS and CPP via embind and extern
+- Simple Util file
+- Transpile to ASM and WASM
+- Simple python script to build all examples within the examples folder
