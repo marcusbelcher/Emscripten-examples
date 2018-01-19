@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.liquid": "html",
+        "ios": "cpp",
+        "algorithm": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp"
+    }
+}

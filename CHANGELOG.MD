@@ -1,6 +1,13 @@
 # Changelog 
 
-## 17/01/2018 
+## 18/01/2018
+### Added
+- Simple Fibonacci example which involves sending form data to CPP and displaying the results 
+
+### Hotfix
+- build_all.py edited to go back to original examples root
+
+## 17/01/2018
 ### Added
 - Hello world shows how to do getters and setters to and from JS and CPP via embind and extern
 - Simple Util file
