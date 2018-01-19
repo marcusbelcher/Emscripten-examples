@@ -6,7 +6,7 @@ Each example should come with a wasm and asm build.
 ### Examples
 #### Basic
 - [x] Hello World
-- [ ] Fibonacci example
+- [x] Fibonacci example
 - [ ] Fizzbuzz example
 - [ ] Palindrome example
 - [ ] Reverse array

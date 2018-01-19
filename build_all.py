@@ -16,3 +16,4 @@ for root, directories, filenames in os.walk('./examples'):
             os.chdir(root)
             os.system(r"emmake make clean")
             os.system(r"emmake make all")
+            os.chdir('../../')
